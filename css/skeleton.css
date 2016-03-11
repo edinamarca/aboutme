@@ -440,3 +440,24 @@ DESDE AQUI HACIA ABAJO  MI PROPIO CODIGO CSS
 {
 	margin:auto;
 	}	
+
+.mensajepersonalizado
+{
+	font-size:7rem;
+	font-family: 'Candal', sans-serif;
+	color:#c0392b;
+	
+	
+	}
+	
+	
+.colorsubs
+{
+	color:#2980b9;
+	}	
+	
+	
+.auxiliar
+{
+	vertical-aling:centtal;
+	}	
